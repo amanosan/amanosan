@@ -1,5 +1,5 @@
 ### Hi there, I'm Aman Osan👋
-## I'm a Computer Science Sophmore from New Delhi, India.
+#### I'm a Computer Science Sophmore from New Delhi, India.
 
 I'm into Machine Learning and Deep Learning
 
@@ -9,5 +9,5 @@ I'm into Machine Learning and Deep Learning
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amanosan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanosan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanosan&show_icons=true&theme=radical&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 
